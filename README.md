@@ -1,3 +1,3 @@
 # emacs
 
-`.emacs`	emacs configuration file
+`.emacs`  emacs configuration file 
